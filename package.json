@@ -4,9 +4,9 @@
   "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/bchiang7.github.io"
+    "url":"https://github.com/danieladeremi/personalsitev3"
   },
-  "homepage": "https://github.com/bchiang7/bchiang7.github.io",
+  "homepage": "https://danieladeremi.github.io/personalsitev3/",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
