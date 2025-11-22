@@ -14,14 +14,11 @@ social:
   - title: twitter
     url: https://twitter.com/bchiang7
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://www.instagram.com/danieladeremi2/
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/danieladeremi
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
-
+    url: https://www.linkedin.com/in/daniel-aderemi-4a5281244/
 # Build settings
 markdown: kramdown
 
