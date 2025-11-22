@@ -7,7 +7,8 @@ baseurl: ''
 email: dannyblast12@gmail.com
 cover: https://bchiang7.github.io/img/og.png
 logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+resume: "https://danieladeremi.github.io/personalsitev3/resume.pdf"
+
 social:
   - title: email
     url: mailto:dannyblast12@gmail.com
