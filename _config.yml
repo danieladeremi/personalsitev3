@@ -5,15 +5,15 @@ description: Design-minded front-end software engineer focused on building beaut
 url: "https://danieladeremi.github.io"
 baseurl: "/personalsitev3"
 email: dannyblast12@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
+cover: "https://danieladeremi.github.io/personalsitev3/img/og.png"
+logo: "https://danieladeremi.github.io/personalsitev3/img/emojis/technologist.png"
 resume: "https://danieladeremi.github.io/personalsitev3/resume.pdf"
 
 social:
   - title: email
     url: mailto:dannyblast12@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://x.com/phantomddancer
   - title: instagram
     url: https://www.instagram.com/danieladeremi2/
   - title: github
