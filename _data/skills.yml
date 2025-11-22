@@ -1,11 +1,11 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
+  - item: JavaScript 
   - item: HTML
-  - item: CSS/Sass
+  - item: CSS
   - item: Python
   - item: SQL
-  - item: R
+  - item: Unity
+  - item: Unreal Engine 5
 
 frameworks:
   - item: Ember & Glimmer
