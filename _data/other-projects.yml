@@ -23,3 +23,16 @@
     - thing: MongoDB
     - thing: JWT Auth
 
+- name: League of Legends Pro Meta Forecasting
+  url: https://github.com/danieladeremi/metaforecast
+  code: https://github.com/danieladeremi/metaforecast
+  description: Machine learning system that forecasts champion pick/ban popularity shifts in professional League of Legends. Built an end-to-end data pipeline combining multi-year Tier-1 pro play statistics with balance patch notes, and trained predictive models to estimate next-patch draft trends across regions.
+  used:
+    - thing: Python
+    - thing: PyTorch
+    - thing: Pandas
+    - thing: Scikit-learn
+    - thing: TF-IDF / NLP
+    - thing: Oracle’s Elixir Esports Data
+    - thing: Riot Patch Notes
+
