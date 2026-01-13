@@ -36,3 +36,13 @@
     - thing: Oracle’s Elixir Esports Data
     - thing: Riot Patch Notes
 
+- name: Bookmark Sorter (Chrome Extension)
+  url: https://github.com/danieladeremi/bookmarksort
+  code: https://github.com/danieladeremi/bookmarksort
+  description: Chrome extension that analyzes and reorganizes browser bookmarks by website and domain. Traverses the bookmark tree, normalizes domains to account for subdomains and mirror sites, and generates a clean, deterministic folder hierarchy with a preview-first workflow to ensure non-destructive reorganization.
+  used:
+    - thing: JavaScript
+    - thing: Chrome Extensions API (Manifest V3)
+    - thing: Bookmark Tree Traversal
+    - thing: Domain Normalization
+    - thing: UI Preview & Safe Apply Workflow
