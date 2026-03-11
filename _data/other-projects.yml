@@ -25,6 +25,22 @@
     - thing: Spotify Web API (Spotipy)
     - thing: Last.fm API
     - thing: Joblib
+- name: AuditLens — Financial Anomaly & Audit Risk Platform
+  url: https://github.com/danieladeremi/AuditLens
+  code: https://github.com/danieladeremi/AuditLens
+  description: Full-stack financial risk intelligence platform that applies forensic accounting techniques to detect anomalies and score audit risk across a portfolio of companies. Implements Benford's Law (chi-squared goodness-of-fit) to test transaction digit distributions, Z-Score and IQR outlier detection across 10 quarterly financial metrics, and a weighted composite risk scoring engine. Features an interactive React dashboard with trend visualization, anomaly drill-down tables, and a portfolio-level risk heatmap across 4,000 synthetic transactions and 60 quarterly statements.
+  used:
+    - thing: Python
+    - thing: FastAPI
+    - thing: SQLAlchemy
+    - thing: SQLite
+    - thing: Pandas
+    - thing: SciPy
+    - thing: React
+    - thing: Recharts
+    - thing: Tailwind CSS
+    - thing: Benford's Law Analysis
+    - thing: Statistical Anomaly Detection
 - name: Android Event App
   url: https://github.com/danieladeremi/androideventapp
   code: https://github.com/danieladeremi/androideventapp
