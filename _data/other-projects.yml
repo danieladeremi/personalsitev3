@@ -8,7 +8,6 @@
     - thing: XML Layouts
     - thing: SQLite
     - thing: Firebase
-
 - name: Nexus App
   url: https://github.com/danieladeremi/nexusproject
   code: https://github.com/danieladeremi/nexusproject
@@ -46,3 +45,32 @@
     - thing: Bookmark Tree Traversal
     - thing: Domain Normalization
     - thing: UI Preview & Safe Apply Workflow
+- name: Improved Global Power Rankings (LoL Esports)
+  url: https://github.com/danieladeremi/LOLGPR
+  code: https://github.com/danieladeremi/LOLGPR
+  description: Data-driven League of Legends ranking system inspired by Riot/AWS GPR methodology, built to evaluate Tier-1 teams using Oracle’s Elixir match data. Implemented series-level inference, international event attribution (MSI/Worlds/First Stand), placement tagging, tier filtering, and recency/playoff-weighted Elo logic to produce transparent and configurable cross-regional power rankings.
+  used:
+    - thing: HTML/CSS
+    - thing: JavaScript
+    - thing: Pyodide (Python in-browser)
+    - thing: Python
+    - thing: Pandas
+    - thing: Elo-based Rating System
+    - thing: Oracle’s Elixir Esports Data
+- name: MoodSync
+  url: https://github.com/danieladeremi/moodsync
+  code: https://github.com/danieladeremi/moodsync
+  description: ML-powered music recommendation app that clusters a user’s Spotify library into mood-based groups and generates playlists from natural-language input. Built an end-to-end pipeline for data collection, feature engineering, unsupervised clustering, interactive visualization, and playlist export through a Streamlit interface.
+  used:
+    - thing: Python
+    - thing: Scikit-learn (K-Means, PCA)
+    - thing: UMAP
+    - thing: Pandas
+    - thing: NumPy
+    - thing: Plotly
+    - thing: Streamlit
+    - thing: Spotify Web API (Spotipy)
+    - thing: Last.fm API
+    - thing: Joblib
+  
+  
