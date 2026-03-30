@@ -10,6 +10,34 @@
     - thing: Pandas
     - thing: Elo-based Rating System
     - thing: Oracle’s Elixir Esports Data
+
+- name: ScholarCurio (cf_ai_curio)
+  url: https://github.com/danieladeremi/cf_ai_curio
+  code: https://github.com/danieladeremi/cf_ai_curio
+  description: AI-powered scholarly research assistant built on Cloudflare. Users chat to discover academic papers, retrieve and deduplicate sources from OpenAlex and Crossref, and receive grounded summaries generated with Workers AI and explicit citation guardrails. Implemented persistent session memory and reading-list state using SQLite-backed Durable Objects, plus a responsive web interface for filtering queries and saving papers.
+  used:
+    - thing: TypeScript
+    - thing: Cloudflare Workers
+    - thing: Cloudflare Workers AI (Llama 3.3)
+    - thing: Durable Objects (SQLite)
+    - thing: Wrangler
+    - thing: HTML/CSS
+    - thing: JavaScript
+    - thing: OpenAlex API
+    - thing: Crossref API
+- name: Lowballer
+  url: https://github.com/danieladeremi/lowballer
+  code: https://github.com/danieladeremi/lowballer
+  description: Chrome extension that helps users estimate aggressive but realistic lowball offers on resale marketplaces. It pulls listing data, crawls seller feedback/sold listings, builds seller history JSON, and computes dynamic acceptance odds with a live offer slider and seller-trait profiling.
+  used:
+    - thing: JavaScript (ES Modules)
+    - thing: Chrome Extension (Manifest V3)
+    - thing: HTML/CSS
+    - thing: Chrome APIs (storage, activeTab, scripting, tabs)
+    - thing: DOM Parsing / Web Scraping
+    - thing: JSON Data Modeling
+    - thing: Heuristic & Probability Modeling
+
 - name: MoodSync
   url: https://github.com/danieladeremi/moodsync
   code: https://github.com/danieladeremi/moodsync
@@ -25,6 +53,7 @@
     - thing: Spotify Web API (Spotipy)
     - thing: Last.fm API
     - thing: Joblib
+
 - name: AuditLens — Financial Anomaly & Audit Risk Platform
   url: https://github.com/danieladeremi/AuditLens
   code: https://github.com/danieladeremi/AuditLens
@@ -41,6 +70,25 @@
     - thing: Tailwind CSS
     - thing: Benford's Law Analysis
     - thing: Statistical Anomaly Detection
+
+- name: Goatometer (NBA GOAT Analyzer)
+  url: https://github.com/danieladeremi/goatscore
+  code: https://github.com/danieladeremi/goatscore
+  description: Data-driven NBA greatness platform that ranks all-time players across four pillars (volume, peak, context, honors) and includes a Potential GOAT forecaster for active stars. Built an end-to-end pipeline for scraping, cleaning, era-adjusting, scoring, and serving interactive rankings/projections through a public Streamlit app.
+  used:
+    - thing: Python
+    - thing: Streamlit
+    - thing: Pandas
+    - thing: NumPy
+    - thing: SciPy
+    - thing: scikit-learn
+    - thing: Matplotlib
+    - thing: Requests
+    - thing: BeautifulSoup4
+    - thing: Zerve.ai
+    - thing: Basketball-Reference data
+    - thing: CSV data pipeline
+    
 - name: Android Event App
   url: https://github.com/danieladeremi/androideventapp
   code: https://github.com/danieladeremi/androideventapp
