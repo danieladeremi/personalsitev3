@@ -1,8 +1,7 @@
 # Site settings
 name: Daniel Aderemi
-title: Daniel Aderemi | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: "https://danieladeremi.github.io"
+title: Daniel Aderemi | Software Engineer
+description: Software engineer with a passion for building impactful projects. 
 baseurl: "/personalsitev3"
 email: dannyblast12@gmail.com
 cover: "https://danieladeremi.github.io/personalsitev3/img/og.png"
