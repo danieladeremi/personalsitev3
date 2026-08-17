@@ -71,6 +71,34 @@
     - thing: Benford's Law Analysis
     - thing: Statistical Anomaly Detection
 
+- name: HalluBench — LLM Hallucination Benchmark
+  url: https://github.com/danieladeremi/hallubench
+  code: https://github.com/danieladeremi/hallubench
+  description: Open, reproducible benchmark that stress-tests multiple frontier and open-source LLMs to pinpoint when and how they start hallucinating. Probes models across five engineered failure modes (answerable controls, false premises, unanswerable/void questions, knowledge-boundary edges, and citation-fabrication bait) through a single OpenRouter endpoint, then grades every response with a category-aware, rubric-based LLM-as-judge that distinguishes correct answers, valid abstentions, and confident fabrication. Produces per-model, per-category reliability profiles from a config-driven, swappable model set, with every raw response saved for audit and an interactive results dashboard.
+  used:
+    - thing: Python
+    - thing: OpenRouter API (multi-model)
+    - thing: LLM-as-Judge Evaluation
+    - thing: Prompt Engineering
+    - thing: Chart.js
+    - thing: HTML/CSS
+    - thing: JSON Data Modeling
+    - thing: Reproducible Benchmarking
+ 
+- name: R6 Siege Player Performance Diagnostic
+  url: https://github.com/danieladeremi/r6-diagnostic
+  code: https://github.com/danieladeremi/r6-diagnostic
+  description: Data analytics tool that diagnoses why a Rainbow Six Siege player is losing and how they can improve. Benchmarks a player's match stats against population baselines for their skill rank through relational SQL joins, isolates root-cause weaknesses from downstream symptoms, and outputs a prioritized, plain-language improvement plan. Schema modeled on Ubisoft's official R6 "Data Peek" match-summary fields so live API data can be swapped in. Presents results through an interactive dashboard with a diagnosis summary, radar profile, weakness-gap ranking, opening-deaths trend line, and a ranked coaching plan.
+  used:
+    - thing: Python
+    - thing: SQL (SQLite)
+    - thing: Pandas
+    - thing: Chart.js
+    - thing: Data Visualization
+    - thing: Relational Gap Analysis
+    - thing: HTML/CSS
+ 
+
 - name: Goatometer (NBA GOAT Analyzer)
   url: https://github.com/danieladeremi/goatscore
   code: https://github.com/danieladeremi/goatscore
